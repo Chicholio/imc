@@ -1,0 +1,19 @@
+{
+  "name": "imc",
+  "version": "1.0.0",
+  "description": "Proyecto en WebPack y Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chicholio/imc.git"
+  },
+  "author": "Mauricio Londoño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chicholio/imc/issues"
+  },
+  "homepage": "https://github.com/Chicholio/imc#readme"
+}
